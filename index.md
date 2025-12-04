@@ -7,13 +7,17 @@ title: "Home"
   <img src="/assets/img/profile.jpg" class="profile-img">
   <div>
     # Siyuan Zhan  
+
     Assistant Professor in Control Engineering  
+    
     **Trinity College Dublin**
 
     Email: [zhans@tcd.ie](mailto:zhans@tcd.ie)  
 
     Room 0.03, Parsons Building  
+
     Department of Mechanical, Manufacturing and Biomedical Engineering  
+
     Trinity College Dublin, Ireland
   </div>
 </div>
