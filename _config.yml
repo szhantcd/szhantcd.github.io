@@ -1,0 +1,25 @@
+title: "Siyuan Zhan"
+description: "Assistant Professor in Control Engineering, Trinity College Dublin"
+baseurl: ""
+url: "https://szhan.github.io"
+
+theme: minima
+markdown: kramdown
+
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Research"
+    link: "/research"
+  - name: "Publications"
+    link: "/publications"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Service"
+    link: "/service"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
