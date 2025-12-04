@@ -11,7 +11,6 @@ title: "Home"
     **Trinity College Dublin**
 
     Email: [zhans@tcd.ie](mailto:zhans@tcd.ie)  
-    Phone: +353 894793193  
 
     Room 0.03, Parsons Building  
     Department of Mechanical, Manufacturing and Biomedical Engineering  
